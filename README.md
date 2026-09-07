@@ -237,3 +237,6 @@ This repository serves as the official landing page for Disk Doctors File Shredd
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Disk Doctors File Shredder today!**
+
+---
+**Last updated:** 2026-09-07 17:06:27 UTC
